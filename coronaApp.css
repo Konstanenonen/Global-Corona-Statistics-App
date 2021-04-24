@@ -1,0 +1,16 @@
+h1 {
+    padding: 50px;
+    color: white;
+}
+
+body {
+    background-color: rgb(43, 52, 64);
+}
+
+#startCard {
+    background-color:white;
+}
+
+#bottomItems {
+    margin-top: 10px;
+}
