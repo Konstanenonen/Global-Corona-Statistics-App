@@ -1,5 +1,4 @@
-# Project2APICoronaApp
-
+# Global-Corona-Statistics-App
 Link to Netlify site: https://gallant-wescoff-74ee5c.netlify.app/
 
 I made a web app that fetches information from "https://api.covid19api.com/ using a button for Global statistics, dropdown menu for a few selected countries, and then
